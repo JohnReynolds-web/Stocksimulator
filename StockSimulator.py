@@ -244,7 +244,7 @@ while True:
                 while True:
                     print('You can unlock news jobs after reaching lvl 5 in your current job. Beggar is the first job.')
                     print(f'Your current job levels are {p.joblevels}')
-                    jobchoiceinput=input(f'Our current job options are {p.joborder} (press q to leave): ').lower().capitalize()
+                    jobchoiceinput=input(f'Our current job options are {p.joborder} (press q to leave): ').lower().title()
                     if jobchoiceinput=='Q':
                         print('You left the job center')
                         sleep(2)
