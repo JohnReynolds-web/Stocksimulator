@@ -1,0 +1,2 @@
+This is a python file. It's a small stock simulator game that has news events (makes stocks either go up or down by a percentage) has multiple jobs and job levels, and even has company owning (owning more than 50% gives a bonus cash each day and owning 100% of a company eg 1000 stocks earns you even more money. Near the jobs
+it also has gigs which are selected from a pool of 10? and are randomized each day.
